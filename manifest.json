@@ -1,0 +1,30 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Send Wa 2 Any Number",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "WaQMsg",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "id": "21032026",
+  "description": "Now you can send Wapp Msg without save the Number",
+"icons": [
+{
+"src": "launchericon-192x192.png",
+"sizes": "192x192",
+"type": "image/png",
+"purpose": "any"
+},
+{
+"src": "launchericon-512x512.png",
+"sizes": "512x512",
+"type": "image/png",
+"purpose": "any"
+}
+],
+  "categories": [
+    "fun"
+  ]
+}
